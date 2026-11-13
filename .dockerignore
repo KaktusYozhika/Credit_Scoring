@@ -1,0 +1,11 @@
+data/
+tests/
+__pycache__/
+*.pyc
+.venv/
+.git/
+*.zip
+*.docx
+*.pdf
+README.md
+.gitignore

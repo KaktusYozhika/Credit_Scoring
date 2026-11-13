@@ -1,0 +1,34 @@
+{
+  "model_version": "v1.0.0",
+  "data_version": "cs-training.csv:sha256:1bd46da486a5",
+  "source": "Give Me Some Credit (Kaggle), cs-training.csv",
+  "trained_at": "2026-11-13T09:11:18+00:00",
+  "target": "SeriousDlqin2yrs",
+  "features": [
+    "RevolvingUtilizationOfUnsecuredLines",
+    "age",
+    "NumberOfTime30-59DaysPastDueNotWorse",
+    "DebtRatio",
+    "MonthlyIncome",
+    "NumberOfOpenCreditLinesAndLoans",
+    "NumberOfTimes90DaysLate",
+    "NumberRealEstateLoansOrLines",
+    "NumberOfTime60-89DaysPastDueNotWorse",
+    "NumberOfDependents"
+  ],
+  "threshold": 0.55,
+  "train_size": 104573,
+  "validation_size": 22409,
+  "test_size_not_used_for_selection": 22409,
+  "removed_exact_duplicates": 609,
+  "validation_class_1_fraction": 0.06698,
+  "baseline_pr_auc_ap": 0.19134,
+  "metrics": {
+    "pr_auc_ap": 0.33065,
+    "roc_auc": 0.79895,
+    "precision": 0.26385,
+    "recall": 0.53298,
+    "review_fraction": 0.1353
+  },
+  "note": "Это учебная модель. Баллы модели не откалиброваны для реального банковского решения."
+}

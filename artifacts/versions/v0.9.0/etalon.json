@@ -1,0 +1,82 @@
+[
+  {
+    "features": {
+      "RevolvingUtilizationOfUnsecuredLines": 0.144040225,
+      "age": 90.0,
+      "NumberOfTime30-59DaysPastDueNotWorse": 0.0,
+      "DebtRatio": 0.159613462,
+      "MonthlyIncome": 3000.0,
+      "NumberOfOpenCreditLinesAndLoans": 3.0,
+      "NumberOfTimes90DaysLate": 0.0,
+      "NumberRealEstateLoansOrLines": 0.0,
+      "NumberOfTime60-89DaysPastDueNotWorse": 0.0,
+      "NumberOfDependents": 0.0
+    },
+    "probability": 0.143513,
+    "predicted_class": 0
+  },
+  {
+    "features": {
+      "RevolvingUtilizationOfUnsecuredLines": 0.132095991,
+      "age": 54.0,
+      "NumberOfTime30-59DaysPastDueNotWorse": 0.0,
+      "DebtRatio": 0.088601754,
+      "MonthlyIncome": 6500.0,
+      "NumberOfOpenCreditLinesAndLoans": 9.0,
+      "NumberOfTimes90DaysLate": 0.0,
+      "NumberRealEstateLoansOrLines": 0.0,
+      "NumberOfTime60-89DaysPastDueNotWorse": 0.0,
+      "NumberOfDependents": 0.0
+    },
+    "probability": 0.319242,
+    "predicted_class": 0
+  },
+  {
+    "features": {
+      "RevolvingUtilizationOfUnsecuredLines": 0.147221319,
+      "age": 60.0,
+      "NumberOfTime30-59DaysPastDueNotWorse": 0.0,
+      "DebtRatio": 0.183954011,
+      "MonthlyIncome": 4000.0,
+      "NumberOfOpenCreditLinesAndLoans": 8.0,
+      "NumberOfTimes90DaysLate": 0.0,
+      "NumberRealEstateLoansOrLines": 0.0,
+      "NumberOfTime60-89DaysPastDueNotWorse": 0.0,
+      "NumberOfDependents": 0.0
+    },
+    "probability": 0.292508,
+    "predicted_class": 0
+  },
+  {
+    "features": {
+      "RevolvingUtilizationOfUnsecuredLines": 0.7293648,
+      "age": 37.0,
+      "NumberOfTime30-59DaysPastDueNotWorse": 0.0,
+      "DebtRatio": 0.214518583,
+      "MonthlyIncome": 4600.0,
+      "NumberOfOpenCreditLinesAndLoans": 5.0,
+      "NumberOfTimes90DaysLate": 1.0,
+      "NumberRealEstateLoansOrLines": 0.0,
+      "NumberOfTime60-89DaysPastDueNotWorse": 1.0,
+      "NumberOfDependents": 4.0
+    },
+    "probability": 0.69799,
+    "predicted_class": 1
+  },
+  {
+    "features": {
+      "RevolvingUtilizationOfUnsecuredLines": 0.889851691,
+      "age": 38.0,
+      "NumberOfTime30-59DaysPastDueNotWorse": 1.0,
+      "DebtRatio": 0.450670876,
+      "MonthlyIncome": 3800.0,
+      "NumberOfOpenCreditLinesAndLoans": 8.0,
+      "NumberOfTimes90DaysLate": 0.0,
+      "NumberRealEstateLoansOrLines": 2.0,
+      "NumberOfTime60-89DaysPastDueNotWorse": 0.0,
+      "NumberOfDependents": 1.0
+    },
+    "probability": 0.636768,
+    "predicted_class": 1
+  }
+]
